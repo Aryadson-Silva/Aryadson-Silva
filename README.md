@@ -19,7 +19,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 - **Status:** Documentação e estrutura finalizadas (Projeto Acadêmico em Trio)
 - **Descrição:** Projeto focado no desenvolvimento de um jogo educacional interativo baseado em conceitos de lógica matemática e raciocínio lógico (tabelas verdade / declarações de verdadeiro e falso).
 - **Tecnologias/Conceitos:** Lógica de Programação, Matemática Discreta, Documentação de Software
-- **Repositório / Documentação:** [Ver Projeto no GitHub](URL_DO_SEU_REPOSITORIO_AQUI)
+- **Repositório / Documentação:** [Ver Projeto no GitHub](https://creator.kodular.io/?locale=pt_BR#611075446390296620)
   ## Contato
   ### E-Mail
   aryadsonsilva09@gmail.com
