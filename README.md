@@ -25,3 +25,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
   aryadsonsilva09@gmail.com
   ### LinkedIn
   www.linkedin.com/in/aryadson
+  ### Twitter(X)
+  https://x.com/aryadsonsilva09
+  ### Instagram
+  https://www.instagram.com/arya.dson09
+  ### Threads
+  https://www.threads.com/@arya.dson09
